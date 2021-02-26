@@ -1,1 +1,3 @@
 # hello-world
+
+This is my first time working with Github and my first semi-coding project in 360...
