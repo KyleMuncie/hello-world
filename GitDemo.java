@@ -4,10 +4,10 @@ Kyle Muncie
 public class GitDemo {
     
     private double previousNumber;
+    private double reverseNum;
     
     public GitDemo() {
         previousNumber = 1;
-        private double reverseNum;
     }
     
     /*****
